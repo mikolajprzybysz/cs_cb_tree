@@ -1,0 +1,7 @@
+C:\Download\firefox\B-Trees\Src\CBTree\bin\Debug\CBTree.exe
+C:\Download\firefox\B-Trees\Src\CBTree\bin\Debug\CBTree.pdb
+C:\Download\firefox\B-Trees\Src\CBTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Download\firefox\B-Trees\Src\CBTree\obj\Debug\CBTree.Properties.Resources.resources
+C:\Download\firefox\B-Trees\Src\CBTree\obj\Debug\CBTree.csproj.GenerateResource.Cache
+C:\Download\firefox\B-Trees\Src\CBTree\obj\Debug\CBTree.exe
+C:\Download\firefox\B-Trees\Src\CBTree\obj\Debug\CBTree.pdb
